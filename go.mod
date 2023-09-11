@@ -1,4 +1,4 @@
-module dc_idp
+module dc_[[SERVICE_NAME]] //REPLACEME
 
 go 1.20
 
